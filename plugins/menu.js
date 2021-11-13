@@ -47,9 +47,9 @@ const defaultMenu = {
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
 │ Github :
-│ https://github.com/LitRHap/wabot
+│ https://github.com/DannnMalesin
 │ Instagram :
-│ https://instagram.com/loli._.school
+│ https://instagram.com/arfansyahdanni
 ╰────
 %readmore`.trimStart(),
   header: '┏┉┄┈┈┈『%category』┈┈┈┈┈┉┓',
